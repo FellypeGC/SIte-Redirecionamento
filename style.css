@@ -47,4 +47,5 @@ body {
 
 .btn:hover {
     border-radius: 16px;
+    text-decoration: underline;
 }
